@@ -1,0 +1,10 @@
+name: MCUpgrades
+version: ${project.version}
+description: A generic Slimefun4-Addon
+website: https://github.com/Alvsch/MCUpgrades
+author: Alvsch
+
+main: me.alvsch.mcupgrades.MCUpgrades
+depend: [Slimefun]
+
+api-version: 1.14
